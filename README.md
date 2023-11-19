@@ -1,5 +1,10 @@
-###                                                                 Hi there 👋, I’m Matias Jose Tiscornia
-##  I ’m a Systems Engineer Student(3rd year).
+<h1 align="center">
+    Hi there 👋, I’m Matias Jose Tiscornia
+</h1>
+
+<h2 align="center">
+    I ’m a Systems Engineer Student(3rd year).
+</h2>
 
 - 🔭 I’m currently working on a simulation of an operating system for the university.
 - 🌱 I’m currently learning object-oriented programming.
