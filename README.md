@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there 👋, I’m Matias Jose Tiscornia
+    Hi there 👋, I’m Matías José Tiscornia
 </h1>
 
 <h2 align="center">
